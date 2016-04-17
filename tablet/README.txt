@@ -1,0 +1,1 @@
+This is a chrome extension that like a tablet running in chrome.
